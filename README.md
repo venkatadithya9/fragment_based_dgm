@@ -111,3 +111,7 @@ where `<RUN_PATH>` is defined as described above.
 ### Samples
 
 You can find the 20k SMILES samples used in the paper for the analysis in the SAMPLES folder.
+
+### Pylint results
+
+After making necessary changes we got the overall pylint score of the codebase from 6 to 7.33.
