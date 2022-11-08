@@ -1,3 +1,8 @@
+
+### Pylint results
+
+After making necessary changes we got the overall pylint score of the codebase from 6 to 8.23.
+
 # Code for the paper "A Deep Generative Model for Fragment-Based Molecule Generation" (AISTATS 2020)
 
 Links:  [Paper](http://proceedings.mlr.press/v108/podda20a/podda20a.pdf) - [AISTATS 2020 proceedings](http://proceedings.mlr.press/v108/)
@@ -111,7 +116,3 @@ where `<RUN_PATH>` is defined as described above.
 ### Samples
 
 You can find the 20k SMILES samples used in the paper for the analysis in the SAMPLES folder.
-
-### Pylint results
-
-After making necessary changes we got the overall pylint score of the codebase from 6 to 7.33.
